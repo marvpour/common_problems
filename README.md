@@ -1,4 +1,4 @@
-# PySpark POI Labeling & Data Cleanup Example
+# PySpark GeoData Labeling
 
 ## 📌 Overview
 
